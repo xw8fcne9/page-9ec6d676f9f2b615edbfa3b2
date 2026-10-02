@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3c605b02201c0f0d979130bc",
+  "owner": "xw8fcne9",
+  "repo": "page-9ec6d676f9f2b615edbfa3b2",
+  "title": "CC云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9ec6d676f9f2b615edbfa3b2",
+      "a": "CC云",
+      "b": "",
+      "entity": "CC云",
+      "brand": "CC云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "690dbcbdf3206c909f989ef09cb8d4f43946c5ad206517837e3874680a1214d7",
+      "content": {
+        "keyword1": "CC云",
+        "keyword2": "",
+        "primary_entity": "CC云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "CC云提供机场订阅与VPN网络加速服务，覆盖多端客户端下载、流媒体解锁与IPLC游戏线路，本页介绍套餐对比、使用场景与官方下载指引。",
+          "AI_DESCRIPTION": "CC云提供机场订阅与VPN网络加速服务，覆盖多端客户端下载、流媒体解锁与IPLC游戏线路，本页介绍套餐对比、使用场景与官方下载指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{background:#F6F3EC;color:#15281E;font-family:system-ui,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.7}a{color:#1B4332}header{background:#1B4332;color:#F6F3EC;padding:.8rem 1rem} .navwrap{max-width:1080px;margin:0 auto;display:flex;flex-wrap:wrap;gap:.75rem 1rem;align-items:center;justify-content:space-between} .logo{color:#F6F3EC;text-decoration:none;font-weight:700;font-size:1.2rem}nav{display:flex;flex-wrap:wrap;gap:.55rem .9rem}nav a{color:#E8F0EA;text-decoration:none;font-size:.95rem}main{display:block}h1{margin:0 0 .7rem;font-size:1.85rem;line-height:1.3;color:#143D28}h2{margin:0 0 .7rem;font-size:1.38rem;color:#143D28}h3{margin:0 0 .45rem;font-size:1.12rem;color:#1B4332}p{margin:0 0 .75rem} .wrap{max-width:1080px;margin:0 auto} .hero{padding:2rem 1rem;background:#E8F0EA} .muted{color:#3D5248} .block{padding:2rem 1rem} .stagger{display:flex;flex-wrap:wrap;gap:1.2rem;align-items:stretch} .stagger.alt{flex-direction:row-reverse} .panel{flex:1 1 280px} .card{background:#FFFCF7;border:1px solid #C9D9CE;border-radius:12px;padding:1.2rem} .green{background:#1B4332;color:#F6F3EC;border-radius:12px;padding:1.2rem} .green a{color:#CDE5D6} .plans{display:flex;flex-wrap:wrap;gap:1rem;align-items:stretch} .plan{flex:1 1 250px;background:#FFFCF7;border:2px solid #C5D7CB;border-radius:12px;padding:1.2rem} .plan.feat{border-color:#1B4332;background:#E8F0EA} .badge{display:inline-block;background:#1B4332;color:#F6F3EC;border-radius:999px;font-size:.75rem;padding:.12rem .5rem;margin-bottom:.45rem} .price{font-size:1.5rem;font-weight:700;color:#1B4332;margin:.2rem 0} .annual{font-size:.92rem;color:#3D5248} ul,ol{margin:.4rem 0 0;padding-left:1.2rem} .steps li{margin:.35rem 0}details{background:#FFFCF7;border:1px solid #C5D7CB;border-radius:8px;padding:.65rem .9rem;margin:0 0 .65rem}summary{font-weight:600;color:#143D28}details p{margin:.45rem 0 0;color:#3D5248} .ad{border:1px dashed #1B4332;background:#E8F0EA;border-radius:8px;padding:1rem;margin:.6rem 0} .list a{display:inline-block;margin:0 .75rem .4rem 0}footer{background:#143D28;color:#E8F0EA;padding:2rem 1rem}footer a{color:#CDE5D6} .grid{display:flex;flex-wrap:wrap;gap:1rem} .grid>div{flex:1 1 240px} .cta{display:inline-block;background:#1B4332;color:#F6F3EC;text-decoration:none;border-radius:8px;padding:.55rem .9rem;margin:.25rem .4rem .25rem 0} @media (max-width:720px){.stagger,.stagger.alt{flex-direction:column}h1{font-size:1.55rem}nav{width:100%}}</style><header><div class=\"navwrap\"><a class=\"logo\" href=\"#top\">CC云官网</a><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐对比</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a></nav></div></header><main id=\"top\"><section class=\"hero\"><div class=\"wrap\"><h1>CC云</h1><p>CC云官方网站。面向跨境办公、学术访问、流媒体与游戏的梯子网络加速服务，提供机场订阅、稳定节点与多端加速器客户端下载。套餐流量、设备数与线路能力以本页公示为准。</p><p class=\"muted\">本站为 CC云官方入口。请通过页面内锚点了解套餐、导入方式与官方下载指引，避免来路不明的安装包。</p><p><a class=\"cta\" href=\"#plans\">查看套餐对比</a><a class=\"cta\" href=\"#download\">前往官方下载</a></p></div></section><section class=\"block\" id=\"intro\"><div class=\"wrap\"><h2>品牌简介与官方身份</h2><div class=\"stagger\"><div class=\"panel card\"><h3>CC云机场与 VPN 加速定位</h3><p>CC云把机场订阅与 VPN 客户端结合为同一套网络加速方案：用户按月或按年选择流量额度，在电脑、手机与路由环境中导入订阅，按场景切换普通节点、原生流媒体节点或 IPLC 游戏专线。</p><p>服务强调可预期的配额，而不是含糊的“不限速口号”。基础版覆盖日常浏览与基础流媒体；旗舰版增加设备数、全节点解锁与工单优先级；团队版面向多人共用与定制路由。节点覆盖亚太、北美与欧洲主要接入点，日常办公与跨境会议可按延迟就近选择。</p><p>若你正在寻找可对照价格的加速器官网，请直接使用本页套餐区与下载区，订阅变更与设备管理均以账户内额度显示为准。</p></div><div class=\"panel green\"><h3>官方网站说明</h3><p>CC云仅通过本官方网站公布套餐、客户端下载与操作说明。页面不含评分模块，也不展示无法核验的用户评论。</p><p>官方下载入口见 <a href=\"#download\">客户端下载</a>。安装完成后，用账户内的订阅链接导入即可，无需第三方破解包。</p><p>旗舰版与团队版提供工单通道；团队版另配客户经理对接企业分流策略。合作与广告事宜见页脚。</p></div></div></div></section><section class=\"block\" id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><div class=\"stagger alt\"><div class=\"panel card\"><h3>跨境协作与资料访问</h3><p>远程会议、代码仓库、云盘同步与文献数据库常受链路抖动影响。CC云普通线路适合网页与文档；需要更稳传输时，可将旗舰版或团队版的高带宽节点设为默认出口，并把国内应用走直连，减少无谓绕行。</p><p>笔记本、公司电脑与手机可同时在线，额度按套餐设备数计算。团队版支持 20 台设备，适合项目组共用一条订阅。</p></div><div class=\"panel card\"><h3>流媒体、留学网络与游戏加速</h3><p>基础版提供基础流媒体解锁，满足常见点播需求。旗舰版标注全节点原生流媒体解锁，并含 IPLC 专线游戏加速优化，对房间匹配与语音质量更友好。</p><p>留学与访学场景可把常用学术站点加入代理列表，其余流量保持直连。具体应用分流在客户端规则中完成，操作见下文说明。</p></div></div></div></section><section class=\"block\" id=\"nodes\"><div class=\"wrap\"><h2>节点与加速性能</h2><div class=\"stagger\"><div class=\"panel green\"><h3>线路组织方式</h3><p>节点池按地区分组：东亚、东南亚、北美西岸、北美东岸与欧洲。普通线路用于浏览与轻量同步；旗舰版开放 IPLC 游戏优化线路；团队版另有 VIP 专属高带宽节点，适合大文件与多人并发。</p><p>客户端支持按延迟排序与手动置顶。不承诺虚构的百分比可用性数字，实际体验以当时链路与本地宽带为准。若某组节点拥塞，可在同一区域内切换或改用专线组。</p></div><div class=\"panel card\"><h3>设备、流量与并发</h3><p>流量按自然月结算，到期未用完不自动滚入下月，请按使用强度选择 100GB、300GB 或 1000GB 档。同时在线设备数分别是 3、5、20 台，超出后新终端无法握手，需在账户中下线闲置设备。</p><p>企业如需固定出口或按域名定制路由，选择团队版并在工单中提交网段与应用名单即可评估。</p></div></div></div></section><section class=\"block\" id=\"plans\"><div class=\"wrap\"><h2>套餐对比</h2><p class=\"muted\">价格与权益以下列三档为准。年付为 10 个月价格，适合长期使用机场订阅的用户。推荐对照流量、设备数与线路类型选择，而不是只看月费。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feats\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"cta\" href=\"#guide\">按此档开始配置</a></p></article><article class=\"plan feat\"><p class=\"badge\">重点推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feats\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"cta\" href=\"#guide\">按此档开始配置</a></p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feats\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"cta\" href=\"#guide\">按此档开始配置</a></p></article></div></div></section><section class=\"block\" id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><div class=\"stagger alt\"><div class=\"panel card\"><h3>从开通到连上的步骤</h3><ol class=\"steps\"><li>在套餐对比中选定基础版、旗舰版或团队版，完成账户开通。年付与月付权益相同，仅计费周期不同。</li><li>登录后复制机场订阅链接，妥善保存，不要发到公开群组。</li><li>打开 <a href=\"#download\">客户端下载</a>，按系统获取对应加速器安装包并完成安装。</li><li>在客户端选择“从 URL 导入订阅”或“添加机场”，粘贴链接并更新节点列表。</li><li>按场景选择节点：网页用普通线路，影视用流媒体组，对延迟敏感的游戏用 IPLC 组。</li><li>建议开启规则分流：国内网站直连，跨境应用走代理，避免所有流量挤在同一出口。</li></ol></div><div class=\"panel card\"><h3>日常维护</h3><p>节点列表请定期更新订阅，线路调整后才会出现在客户端。流量将尽时，客户端或账户页会提示剩余额度，可升级到更高档或等待下月重置。</p><p>更换手机或电脑时，先在账户里下线旧设备，再导入同一订阅。团队版若要拆分部门规则，把域名清单发给客户经理即可协助配置。</p><p>无法连接时，先确认本地时间准确、系统代理端口未被占用，再切换同一区域其他节点。旗舰版用户可通过优先工单附上客户端日志截图。</p></div></div></div></section><section class=\"block\" id=\"download\"><div class=\"wrap\"><h2>客户端下载</h2><p>以下为 CC云官方下载说明。安装包获取与校验信息集中在本页，外部来源请勿轻信。各系统使用同一订阅链接，无需重复购买。</p><div class=\"stagger\"><div class=\"panel card\"><h3>桌面端</h3><p>Windows 与 macOS 提供官方加速器客户端，安装后导入订阅即可。若你已有 Clash、Surge 等兼容工具，也可只导入机场订阅，不必更换日常习惯。</p><p><a class=\"cta\" href=\"#download\">Windows 官方下载</a><a class=\"cta\" href=\"#download\">macOS 官方下载</a></p><p class=\"muted\">安装时允许本机代理权限，并关闭其他抢占系统代理的软件，以免端口冲突。</p></div><div class=\"panel card\"><h3>移动端与路由</h3><p>Android 可安装官方应用或兼容核心；iOS 使用描述文件或兼容客户端导入。家庭路由可在支持的固件中粘贴订阅，使电视与游戏主机共享旗舰版 IPLC 线路。</p><p><a class=\"cta\" href=\"#download\">Android 官方下载</a><a class=\"cta\" href=\"#download\">iOS 导入说明</a><a class=\"cta\" href=\"#download\">路由订阅说明</a></p><p class=\"muted\">移动网络下建议开启 UDP 转发相关选项（以客户端实际开关名为准），有助于会议与游戏。</p></div></div></div></section><section class=\"block\" id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>CC云是什么？和普通加速器有何不同？</summary><p>CC云是提供机场订阅的网络加速品牌，把流量配额、多设备在线与分区节点写进套餐。相比只给一个临时账号的工具，你可以在官方客户端或其他兼容客户端中长期导入同一订阅，并按基础版、旗舰版、团队版升级权益。</p></details><details><summary>如何进行客户端下载并保证来源可靠？</summary><p>请只使用本页「客户端下载」区块中的官方下载入口。安装完成后核对应用名称与数字签名说明。不要在网盘或群文件中寻找所谓破解版，那些安装包无法绑定你的机场订阅，还可能造成账户泄露。</p></details><details><summary>订阅链接怎样导入？电脑和手机能否共用？</summary><p>复制账户中的订阅 URL，在客户端选择从 URL 更新。同一链接可在套餐允许的设备数内共用。基础版 3 台、旗舰版 5 台、团队版 20 台。超出后请先下线长期不用的终端。</p></details><details><summary>三档套餐应该怎么选？年付是否更划算？</summary><p>轻度浏览与基础流媒体选基础版（100GB / 3 设备）。需要全节点解锁、游戏 IPLC 与优先工单选旗舰版（300GB / 5 设备）。多人共用或要定制路由选团队版（1000GB / 20 设备）。年付按 10 个月计费，适合确定会长周期使用的用户。</p></details><details><summary>能否解锁流媒体，游戏延迟如何？</summary><p>基础版支持基础流媒体；旗舰版为全节点原生流媒体解锁，并包含 IPLC 专线游戏加速优化。实际播放与对局还取决于片源区域、本机宽带和当时线路负载。若某一节点不适合当前应用，请换同区域其他节点或切到专线组。</p></details><details><summary>流量用尽或连不上时怎么办？</summary><p>流量用尽后需等待月度重置或升级套餐。连不上时检查订阅是否过期、本地时间、代理端口占用，并更新一次节点列表。旗舰版可提交 7x24 优先工单，团队版可联系专属客户经理排查分流规则。</p></details></div></section><section class=\"block\" id=\"ads\"><div class=\"wrap\"><h2>广告位</h2><div class=\"ad\"><h3>品牌合作</h3><p>CC云官方网站接受与跨境协作工具、云存储和硬件路由的文字合作展示。不接受来路不明的客户端分发。合作说明见页脚联系方式，链向 <a href=\"#links\">友情链接</a> 区提交意向。</p></div><div class=\"ad\"><h3>节点托管咨询</h3><p>具备合规接入条件的机房可洽谈线路合作。本广告位仅作招商说明，不代表已对外部服务做可用性背书。</p></div></div></section><section class=\"block\" id=\"sitemap\"><div class=\"wrap\"><h2>网站地图</h2><p>本页为 CC云官网单页结构，对应 sitemap 索引中的首页条目。可快速跳转：</p><p class=\"list\"><a href=\"#top\">首页</a><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#nodes\">节点与性能</a><a href=\"#plans\">套餐对比</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">广告</a><a href=\"#links\">友情链接</a></p><p class=\"muted\">XML 地图地址：<a href=\"#\">/sitemap.xml</a></p></div></section><section class=\"block\" id=\"links\"><div class=\"wrap\"><h2>友情链接</h2><p>友链用于官方文档与合作信息互查，全部为页内锚点或站内路径，避免跳转到无法核验的下载站。</p><p class=\"list\"><a href=\"#download\">CC云官方下载</a><a href=\"#guide\">订阅导入手册</a><a href=\"#plans\">套餐公示</a><a href=\"#faq\">帮助中心</a><a href=\"#sitemap\">站点地图</a><a href=\"#ads\">合作广告</a></p></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap grid\"><div><h2>CC云官方网站</h2><p>网络加速器与机场订阅服务说明、套餐对比与客户端官方下载均以本页为准。</p></div><div><h3>服务与联系</h3><p>旗舰版 7x24 优先工单；团队版专属客户经理。通用事务请通过账户内工单提交，请勿向陌生会话发送订阅链接。</p></div><div><h3>页内导航</h3><p><a href=\"#plans\">套餐</a> · <a href=\"#download\">下载</a> · <a href=\"#faq\">FAQ</a> · <a href=\"#sitemap\">Sitemap</a></p></div></div></footer>",
+          "hash": "67eae7d5cffd1cfcc13fcc66411f08e17765b9a992b1aae2d56954fc2e66d8b4",
+          "seo": {
+            "title": "CC云官方网站 | 梯子网络加速与机场订阅客户端下载",
+            "keywords": "CC云,CC云机场,CC云VPN,梯子,网络加速,加速器,机场订阅,客户端下载,官网下载,IPLC,流媒体解锁",
+            "description": "CC云提供机场订阅与VPN网络加速服务，覆盖多端客户端下载、流媒体解锁与IPLC游戏线路，本页介绍套餐对比、使用场景与官方下载指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "crieewy.cn",
+    "host": "p-0f32b50d70.crieewy.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "crieewy.cn",
+      "url": "https://crieewy.cn/",
+      "label": "白月光",
+      "apex": "crieewy.cn",
+      "kind": null,
+      "identity": "wdykarp/page-57685712c647c510f2c430b7"
+    },
+    {
+      "host": "qcogb.cn",
+      "url": "https://qcogb.cn/",
+      "label": "CC云",
+      "apex": "qcogb.cn",
+      "kind": null,
+      "identity": "qhwchdra/page-cce1989a5feb0fcc93290c39"
+    },
+    {
+      "host": "qhacl.cn",
+      "url": "https://qhacl.cn/",
+      "label": "CC云",
+      "apex": "qhacl.cn",
+      "kind": null,
+      "identity": "utdypakiksjoz/page-8c4a75909d03084489f9b84f"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b61249d6ef42774fe01131982838aae9878ebb2e1b3e774a5a30ccb1a8f0d911",
+    "sitemap.xml": "4112e677805629117d22d1c6611d4748574a6c9f9590b052c2471217cd17628f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "103218e72f6e0951325666fe39e9dae099569ab8d0d513ecd80fd7047db9c250",
+    "robots.txt": "8a3aa0702eb489a1627e487fb89ff99257c64426e5feae3cdc2901fe04a1c37a",
+    "17365a3319ad3b1ccbee397e994de4d8.txt": "3603339b0a66c029b9bec8d570a3cd8f6699c6bdb04f05cc9b4b9c25ece45641"
+  },
+  "revision": "010623dc71089c1b2182a67c84ead8cbb5fedc78c2a79d1808d68306b41c12b9"
+}
